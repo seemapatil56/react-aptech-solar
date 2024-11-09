@@ -1,0 +1,18 @@
+/* src/components/Services.css */
+.services {
+  background-color: #fff3e0;
+  padding: 200px;
+  font-size: 1.1em;
+}
+
+h1 {
+  text-align: center;
+  justify-content: center;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  flex-wrap: wrap;
+  display: inline;
+}
